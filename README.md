@@ -31,4 +31,4 @@
 
 ## Walkthrough Video
 
-[Video link — add your unlisted YouTube URL here]
+[Video link — add your unlisted YouTube URL here
