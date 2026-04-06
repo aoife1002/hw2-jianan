@@ -39,3 +39,5 @@ sending. A coordinator should review every output before it is sent,
 especially for delays over 14 days or cases involving regulatory holds.
 I would not recommend fully automated deployment without a human-in-the-loop
 review step.
+
+## END
