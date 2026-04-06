@@ -68,3 +68,5 @@ Rules:
 **Result:** Case 4 now gives a clear 24-hour follow-up response. Case 3
 now appropriately suggests an account manager call for the long regulatory
 hold.
+
+## END
